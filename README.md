@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Živjo, 
+
+Moje ime je Matej.
